@@ -1,0 +1,54 @@
+body{
+      background-color: indianred;
+}
+.main{
+      border:2px solid pink;
+      width: 280px;
+      margin: 0 auto;
+      background-color: chocolate;
+}
+.umair::placeholder{
+      font-size: 50px;
+}
+.umair{
+      width:273px;
+      background-color: white;
+      color :black;
+      font-size: larger;
+      height: 50px;
+      border: 2px solid orange;
+      margin-left: -2px;
+
+
+
+}
+.clearButton{
+      width: 278px;
+      height: 50px;
+      background-color: aqua;
+      color: burlywood;
+      border: 2px solid orange;
+      font-size: larger;
+      margin-left: -2px;
+      margin: 1px;
+      font-weight: 600;
+
+}
+.btn{
+      width: 65px;
+      font-size: larger;
+      color: cyan;
+      height: 70px;
+      border: 2px solid pink;
+      background-color: darkkhaki;
+      margin: 1px;
+      margin-bottom: 3px;
+}
+.h_btn{
+      border: 2px solid pink;
+      background-color: darkkhaki;
+      width: 49.10%;
+      height: 70px;
+      color: cyan;
+      font-size: larger;
+}
